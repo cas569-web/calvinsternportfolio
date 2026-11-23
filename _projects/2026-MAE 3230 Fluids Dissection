@@ -1,7 +1,9 @@
+---
 layout: project
 title: Fluids Dissection
 description: Our group dissected a chainsaw.
-
+image: /assets/images/Chainsaw.jpeg
+imagealt: Image of the chainsaw that our group takes apart.
 ---
 
 > 📄 **Example page.** Replace all of it with your own project. The Latin text below is
